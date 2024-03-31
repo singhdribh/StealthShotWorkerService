@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StealthShotWorkerService/StealthShotWorkerServiceV1/bin
+/StealthShotWorkerService/StealthShotWorkerServiceV1/obj
+/StealthShotWorkerService/StealthShotWorkerServiceV2/bin
+/StealthShotWorkerService/StealthShotWorkerServiceV2/obj
+/StealthShotWorkerService/.vs
